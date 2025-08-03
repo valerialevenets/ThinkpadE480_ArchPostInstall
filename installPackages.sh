@@ -1,8 +1,8 @@
 #!/bin/sh
 
 pacman -Suy \
-curl cpupower docker-compose easyeffects \
-ffmpeg ffmpeg4.4 firefox flac git \
+bash-completion curl cpupower docker-compose \
+easyeffects ffmpeg ffmpeg4.4 firefox flac git \
 gimp kdenlive htop kdeconnect libldac \
 lm_sensors lsp-plugins lsb-release \
 make media-player-info mesa mesa-utils \
