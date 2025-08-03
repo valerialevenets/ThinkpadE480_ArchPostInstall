@@ -3,7 +3,7 @@
 pacman -Suy \
 bash-completion curl cpupower docker-compose \
 easyeffects ffmpeg ffmpeg4.4 firefox flac git \
-gimp kdenlive htop kdeconnect libldac \
+gimp intel-undervolt kdenlive htop kdeconnect libldac \
 lm_sensors lsp-plugins lsb-release \
 make man media-player-info mesa mesa-utils \
 nano networkmanager-openvpn okular \
