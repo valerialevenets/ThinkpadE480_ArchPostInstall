@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 pacman -Suy \
 bash-completion curl cpupower docker-compose \
