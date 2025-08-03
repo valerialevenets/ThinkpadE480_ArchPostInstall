@@ -7,6 +7,7 @@ gimp intel-undervolt kdenlive htop kdeconnect libldac \
 lm_sensors lsp-plugins lsb-release \
 make man media-player-info mesa mesa-utils \
 nano networkmanager-openvpn okular \
+noto-fonts-cjk noto-fonts-emoji noto-fonts-extra \
 openh264 openjpeg2 openssh openssl \
 openvpn power-profiles-daemon powertop \
 solaar spectacle steam tailscale \
