@@ -10,6 +10,6 @@ nano networkmanager-openvpn okular \
 noto-fonts-cjk noto-fonts-emoji noto-fonts-extra \
 openh264 openjpeg2 openssh openssl \
 openvpn power-profiles-daemon powertop \
-solaar spectacle steam tailscale \
+solaar spectacle sshfs steam tailscale \
 telegram-desktop vlc vlc-plugins-all \
 wget x264 x265 xcalib
