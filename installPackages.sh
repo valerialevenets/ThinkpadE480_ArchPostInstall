@@ -9,7 +9,7 @@ make man media-player-info mesa mesa-utils \
 nano networkmanager-openvpn okular \
 noto-fonts-cjk noto-fonts-emoji noto-fonts-extra \
 openh264 openjpeg2 openssh openssl \
-openvpn power-profiles-daemon powertop \
+openvpn power-profiles-daemon partitionmanager powertop \
 solaar spectacle sshfs steam tailscale \
 telegram-desktop vlc vlc-plugins-all \
 wget x264 x265 xcalib
