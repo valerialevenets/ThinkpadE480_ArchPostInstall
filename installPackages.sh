@@ -1,6 +1,7 @@
 #!/bin/bash
 
 pacman -Suy \
+alsa-utils \
 bash-completion curl cpupower docker-compose \
 easyeffects ffmpeg ffmpeg4.4 firefox flac git \
 gimp gwenview intel-undervolt kdenlive htop kdeconnect \
